@@ -17,8 +17,9 @@ questions = [
     "What's your favorite hobby?",    # Example question
     "What's your favorite movie?",  
     "What's your favorite food?"
-    "What's your "
-] 
+    "What's your favorite sport?"
+    "Who's your favorite celebrity?"
+]
 
 # Function to randomly select and ask two questions
 def icebreaker():
